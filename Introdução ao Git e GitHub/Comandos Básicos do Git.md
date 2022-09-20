@@ -1,4 +1,4 @@
-# Comandos Básicos Git
+# Comandos Básicos Git :computer:
 - cd: mudar diretório
 - ls/dir: listar arquivos dentro do diretório
 - mkdir: criar diretório
