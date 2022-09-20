@@ -6,4 +6,4 @@
 - mv: mover ou renomear arquivo/diretório
 
 ## Links
-- Git:https://git-scm.com/download/win
+- Git: https://git-scm.com/download/win
