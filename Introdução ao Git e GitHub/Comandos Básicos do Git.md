@@ -10,6 +10,3 @@
 - git add */.: adicionar todos arquivos modificados ao backstage
 - git commit -m "": commitar arquivo com uma mensagem
 - git push origin main: subir arquivos ao repositorio no github
-
-## Links para Download
-- Git: https://git-scm.com/download/win
