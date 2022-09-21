@@ -2,7 +2,7 @@
 .NET é uma plataforma de desenvolvimento unificado open source e multiplataforma.
 
 # Etapa 1
-##Introdução ao .NET
+## Introdução ao .NET
 ### Tipo de APP's
 - Desktop: WPF, Windows Forms e UWP
 - WEB: ASP .NET
