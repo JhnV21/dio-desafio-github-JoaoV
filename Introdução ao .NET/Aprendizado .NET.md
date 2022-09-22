@@ -39,6 +39,13 @@
 ## Introdução as IDEs e Configuração de Ambiente .NET
 - IDE: programa que utilizamos para desenvolver.
 - Quais IDEs podemos utilizar: Visual Studio, Visual Studio Code e Rider.
+### Comandos CLI .NET
+- dotnet new console: cria o projeto na pasta especificada.
+- dotnet run: compila e executa seu código. 
+
+#Etapa 5
+## Sintaxe e Indetação
+
 
 
 
