@@ -43,7 +43,7 @@
 - dotnet new console: cria o projeto na pasta especificada.
 - dotnet run: compila e executa seu código. 
 
-#Etapa 5
+# Etapa 5
 ## Sintaxe e Indetação
 - Sempre que nao estiver reconhecendo a classe, verificar se esta usando using e verificar se o namespace esta correto.
 - Sempre fechar com ;
