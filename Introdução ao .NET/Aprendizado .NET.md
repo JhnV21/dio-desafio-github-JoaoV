@@ -48,7 +48,7 @@
 - Sempre que nao estiver reconhecendo a classe, verificar se esta usando using e verificar se o namespace esta correto.
 - Sempre fechar com ;
 - \n quebra de linha
-- Classe (nome.variavel) = new Classe();: para 
+- Classe (nome.variavel) = new Classe();
 - Sintaxe é um conjunto de regras que deve obedecer, se nao o C# nao compila o código.
 - Case: Padrão de escrita para nomes ( camelCase, PascalCase, snake_case e spinal-case).
 - camelCase e PascalCase se usa no C#.
