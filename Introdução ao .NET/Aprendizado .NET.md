@@ -45,6 +45,19 @@
 
 #Etapa 5
 ## Sintaxe e Indetação
+- Sempre que nao estiver reconhecendo a classe, verificar se esta usando using e verificar se o namespace esta correto.
+- Sempre fechar com ;
+- \n quebra de linha
+- Classe (nome.variavel) = new Classe();: para 
+- Sintaxe é um conjunto de regras que deve obedecer, se nao o C# nao compila o código.
+- Case: Padrão de escrita para nomes ( camelCase, PascalCase, snake_case e spinal-case).
+- camelCase e PascalCase se usa no C#.
+- Nome de classe sempre em PascalCase.
+- não pode ter espaços nas classes, propriedades e métodos, espaços apenas em textos nas "".
+- Nome de propriedades e métodos maiuscula a primeira letra.
+- JavaScript utiliza camelCase.
+- toda variavel inicia em minusculo utilizando camelCase.
+
 
 
 
