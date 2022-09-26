@@ -39,7 +39,7 @@
 ## Introdução as IDEs e Configuração de Ambiente .NET
 - IDE: programa que utilizamos para desenvolver.
 - Quais IDEs podemos utilizar: Visual Studio, Visual Studio Code e Rider.
-### Comandos CLI .NET
+## Comandos CLI .NET
 - dotnet new console: cria o projeto na pasta especificada.
 - dotnet run: compila e executa seu código. 
 
@@ -57,6 +57,28 @@
 - Nome de propriedades e métodos maiuscula a primeira letra.
 - JavaScript utiliza camelCase.
 - toda variavel inicia em minusculo utilizando camelCase.
+- Sintaxe são regras que devem seguir senão o programa não compila.
+- Conveções regras definidas pela comunidade, que são identificados padrões para legibilidade do código.
+- Cada linguagem tem sua convenção.
+
+# Etapa 6
+## Tipos de Dados
+- string: cadeia de caracteres, um texto.(representado por "")
+- char: caracter unicode.
+- bool: valor booleano Verdadeiro ou Falso(um dos mais utilizados na programação).
+- int: valor representa um número que não tem casas decimais(Ex: Idade)
+- (u) antes da palavra significa unsigned
+- long, uint, short e ulong: números inteiros que não tem casas decimais.
+- int e long: mais utilizados.
+- decimal, double e float: números com casas decimais.
+- decimal: valores decimais com 28-29 digitos significativos (recomendavel para valores monetarios).
+- double e float: valores decimais.
+- Valores mais utilizados: string, object, bool, decimal, double e int.
+- variavel: valor alocado na memoria para utilizar no programa.
+- Trabalhar com data: usar DateTime.
+
+
+
 
 
 
