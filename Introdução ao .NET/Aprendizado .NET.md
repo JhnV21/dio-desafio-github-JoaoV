@@ -66,7 +66,7 @@
 - string: cadeia de caracteres, um texto.(representado por "")
 - char: caracter unicode.
 - bool: valor booleano Verdadeiro ou Falso(um dos mais utilizados na programação).
-- int: valor representa um número que não tem casas decimais(Ex: Idade)
+- int: valor representa um número que não tem casas decimais(Ex: Idade), (int é uma variavel de 32 bits que representa um número de 2kk).
 - (u) antes da palavra significa unsigned
 - long, uint, short e ulong: números inteiros que não tem casas decimais.
 - int e long: mais utilizados.
@@ -76,6 +76,21 @@
 - Valores mais utilizados: string, object, bool, decimal, double e int.
 - variavel: valor alocado na memoria para utilizar no programa.
 - Trabalhar com data: usar DateTime.
+
+# Etapa 7
+## Operadores de Atribuição
+- Operador de atribuição: serve para atribuir valor a uma determinada variavel.
+- Sinal de (=): valor de atribuição
+- Cast - Casting: conversão de um tipo string para inteiro.
+- Parse: converter uma string para um int 32 bits.
+- Todo tipo que tem no C# pode ser convertido para outro tipo, conhecido com Cast/Casting.
+- Converter string: não precisa utilizar Parse porque não existe para string e não precisa usar o Convert, utilizar (.ToString()).
+- TryParse: conversão segura.
+
+# Etapa 8
+## Operadores Condicionais
+- Um operador condicional possibilita mudar o fluxo de execução de seu código, indicando um caminho que ele deve percorrer.
+
 
 
 
