@@ -90,6 +90,22 @@
 # Etapa 8
 ## Operadores Condicionais
 - Um operador condicional possibilita mudar o fluxo de execução de seu código, indicando um caminho que ele deve percorrer.
+- if:
+- else: só executa se todas condições acima falhar.
+- if aninhado: varias condições que são possiveis de percorrer.
+- else if: continuação.(opcional).
+- ==: comparação.
+- &&: e.
+- switch: significa que esta olhando uma variavel, alternativa caso tenha if aninhado(caso tenha varios if's preferivel utilizar switch).
+- case: igual if.
+- break: para sair do switch.
+- default: igual else.
+
+# Etapa 9
+## Operadores Lógicos
+- utilizar principalmente no if, para realizar verificação de uma determinada condição do código.
+- OR(Pipe, ||:verifica se a entrada é verdadeira.
+
 
 
 
