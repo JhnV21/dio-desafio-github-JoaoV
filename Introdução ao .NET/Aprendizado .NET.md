@@ -104,7 +104,7 @@
 # Etapa 9
 ## Operadores Lógicos
 - utilizar principalmente no if, para realizar verificação de uma determinada condição do código.
-- OR(Pipe, ||:verifica se a entrada é verdadeira.
+- OR(Pipe, ||):verifica se a entrada é verdadeira.
 
 
 
