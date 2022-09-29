@@ -86,16 +86,16 @@
 - Todo tipo que tem no C# pode ser convertido para outro tipo, conhecido com Cast/Casting.
 - Converter string: não precisa utilizar Parse porque não existe para string e não precisa usar o Convert, utilizar (.ToString()).
 - TryParse: conversão segura.
+- quando quiser prioridade usar ().
 
 # Etapa 8
 ## Operadores Condicionais
 - Um operador condicional possibilita mudar o fluxo de execução de seu código, indicando um caminho que ele deve percorrer.
-- if:
+- if: só executa se a condição for verdadeira.
 - else: só executa se todas condições acima falhar.
 - if aninhado: varias condições que são possiveis de percorrer.
 - else if: continuação.(opcional).
 - ==: comparação.
-- &&: e.
 - switch: significa que esta olhando uma variavel, alternativa caso tenha if aninhado(caso tenha varios if's preferivel utilizar switch).
 - case: igual if.
 - break: para sair do switch.
@@ -104,7 +104,17 @@
 # Etapa 9
 ## Operadores Lógicos
 - utilizar principalmente no if, para realizar verificação de uma determinada condição do código.
-- OR(Pipe, ||):verifica se a entrada é verdadeira.
+- OR(Pipe, ||):verifica se uma das condições são verdadeiras.
+- AND (&&): ao contrario do OR, ele só é verdadeiro se todas as condições forem verdadeiras.
+- NOT (!): nega um  valor booleano, se ele é true ele vai ser falso e se for falso vai ser true.(utilizar com &&).
+
+# Etapa 10
+## Operadores Aritméticos e a classe Math
+- operadores aritméticos são oque usamos na matemática e tambem podemos usar no c# para realizar calculos.
+- ++: aumentar valor em 1.
+- --: diminuir valor em 1.
+- quando estiver passando parametros colocar virgula.
+
 
 
 
