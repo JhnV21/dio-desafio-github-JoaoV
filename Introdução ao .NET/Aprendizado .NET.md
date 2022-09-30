@@ -114,6 +114,17 @@
 - ++: aumentar valor em 1.
 - --: diminuir valor em 1.
 - quando estiver passando parametros colocar virgula.
+- Sqrt: raiz quadrada.
+- Round: arredondar.
+
+# Etapa 11
+## Estruturas de Repetição
+- FOR: 3 sintaxes básicas: declaraçao de variavel, condição e incremento.
+- Exemplo: for(int contador = 0; contador <= 10; contador++).
+- While: while apenas verifica a condição, voce responsavel por declarar a variavel antes e incrementar no final do laço(não esquecer da quebra de retorno para nao ter looping infinito.)
+- Exemplo: while (contador <=10).
+- break: quebrar uma condição independente se for verdadeira.
+
 
 
 
