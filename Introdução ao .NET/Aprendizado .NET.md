@@ -124,7 +124,16 @@
 - While: while apenas verifica a condição, voce responsavel por declarar a variavel antes e incrementar no final do laço(não esquecer da quebra de retorno para nao ter looping infinito.)
 - Exemplo: while (contador <=10).
 - break: quebrar uma condição independente se for verdadeira.
+- DO While: o do executa o código independente da condição. (do {...........}while(true);)
+- pode declarar varias variaveis do mesmo tipo em uma unica linha.(tem que ser do mesmo tipo).
+- !=: diferente.
+- diferença entre While e DO While: o while faz so a verificação no começo e se nao for verdadeira nao executa, o DO While executa o código primeiro independente da condição e depois re verifica a condição e executa novamente caso seje verdadeira.
 
+# Etapa 12
+## Estrutura de um programa e método principal.
+Estudar quais são os arquivos principais de um projeto .NET, como identificar e para que serve.
+- .csproj: Contém informações referente a um projeto (build, debug, versão)
+- .sln: Contém informações que carregam um agrupamento de projetos.
 
 
 
