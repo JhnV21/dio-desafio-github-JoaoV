@@ -135,6 +135,20 @@ Estudar quais são os arquivos principais de um projeto .NET, como identificar e
 - .csproj: Contém informações referente a um projeto (build, debug, versão)
 - .sln: Contém informações que carregam um agrupamento de projetos.
 
+#Etapa 13 
+## Array e Listas
+array (matriz ou vetor) é uma estrutura de dados que armazena valores do mesmo tipo, com um tamanho fixo.
+sempre que houver [] é um array 
+Exemplos: int[] array = new int[4];
+		  int[] array = new int[]{42,75,74,61};
+		  string[] nomes = {"Jan,"Fev"};
+array de inteiros somente aceita inteiros. vice versa.
+- Indice: posição de um determinado valor de um array, sempre começando com zero.
+Exemplos: int elemento = array[0];
+		  array[0] = 42;
+- Length: capacidade do array.
+- foreach: nao precisa de contador pois vai jogando o valor da variavel a cada iteração.(apenas para listas e arrays).
+
 
 
 
