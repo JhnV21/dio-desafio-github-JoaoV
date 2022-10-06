@@ -148,6 +148,12 @@ Exemplos: int elemento = array[0];
 		  array[0] = 42;
 - Length: capacidade do array.
 - foreach: nao precisa de contador pois vai jogando o valor da variavel a cada iteração.(apenas para listas e arrays).
+não se pode redimensionar um array, ele nasce e morre com (x) capacidade.
+- Array.Resize: redimensionar capacidade do array.(cria uma copia do array com um array maior e copia os elementos do antigo para o novo.)
+- Array.Copy: cria um novo array com uma nova capacidade e devolve.
+Diferença entre lista e array: array é mais manual precisa se preocupar na quantidade de elementos que quer adicionar para nao estourar a capacidade e tambem se preocupar caso queira aumentar a capacidade é necessario fazer isso manualmente.
+e na lista nao precisa passar capacidade que deseja porem trabalha internamente com array e nesse array interno dela nao é necessario se preocupar, ela faz isso automaticamente.
+sempre que possivel usar lista, pois a complexidade é menor do que trabalhar com array.
 
 
 
